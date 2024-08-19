@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "A Markup Language",
+  "slug": "markup-language",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}

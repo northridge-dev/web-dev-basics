@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "HTML: The Language of the Web",
+  "slug": "lang-of-web",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}

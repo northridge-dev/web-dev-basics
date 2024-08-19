@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Function over Formatting",
+  "slug": "function-over-formatting",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}

@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Block vs. Inline Elements",
+  "slug": "block-v-inline",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}
