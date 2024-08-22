@@ -4,11 +4,11 @@ Did you notice in the last challenge that the text wrapped with `<strong>` and
 `<em>` tags ran together on the same line? That's because they are _inline_
 elements: they are displayed on the same line as the surrounding text.
 
-That didn't happen the `<h1>`, `<p>` tags we saw earlier. These are _block_
+That's not how the `<h1>`, `<p>` tags we saw earlier worked. These are _block_
 elements: they start on a new line and take up the full width of the page.
 
 With few exceptions, inline elements can be **nested** inside block elements, but
-block elements cannot be nested inside inline elements.
+block elements should NOT be nested inside inline elements.
 
 So this is valid:
 
