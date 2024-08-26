@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Adding Styles",
+  "slug": "adding-styles",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}
