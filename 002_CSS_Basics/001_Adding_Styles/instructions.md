@@ -13,7 +13,12 @@ Let's try. Update the code as follows:
 
 Styles can be defined in the `style` attribute. For now, we've only added one
 styling property, `color`. The property name is followed by a colon and then the
-value you want to set for that property.
+value you want to set for that property and finally a semicolon. That's the
+pattern:
+
+```text
+<propertyName>: <value>;
+```
 
 `color` is the property that controls the text color. The value of `color` can
 be a special [named color](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color){:target="\_blank"}, a hexadecimal color code (`#ff0000`, for example), or an RGB value like `rgb(0, 255, 0)`.
