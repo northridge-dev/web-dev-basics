@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Style Precedence - First Look",
+  "slug": "styling-precedence-first-look",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}
