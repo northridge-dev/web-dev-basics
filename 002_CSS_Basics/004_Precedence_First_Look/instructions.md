@@ -1,4 +1,4 @@
-# Styling by ID
+# Precedence: First Look
 
 The more complex your HTML document and your styling instructions, the more
 likely it is that elements will receive conflicting styling instructions.
