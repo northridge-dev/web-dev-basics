@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Playground",
+  "slug": "playground",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}
