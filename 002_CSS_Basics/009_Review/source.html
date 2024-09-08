@@ -1,3 +1,16 @@
+<style>
+  li {
+    color: black;
+  }
+
+  #by-id {
+    color: blue;
+  }
+
+  .by-class {
+    color: green;
+  }
+</style>
 <h1>Review of Basic CSS</h1>
 <ul>
   <li>CSS stands for:</li>
@@ -9,10 +22,22 @@
   <li>CSS is used to <em>style</em> web pages</li>
   <li>You can apply styles selectively:</li>
   <ul>
-    <li>to a specific element, with an <em>inline</em> style</li>
-    <li>to a specific element <em>by ID</em></li>
-    <li>to a group of elements <em>by class</em></li>
-    <li>to all elements created with a specific <em>tag</em></li>
+    <li style="color: red">
+      to a specific element, with an <em>inline</em> style (this bullet point is
+      styled with an inline style)
+    </li>
+    <li id="by-id">
+      to a specific element <em>by ID</em> (this bullet point is styled with an
+      ID selector)
+    </li>
+    <li class="by-class">
+      to a group of elements <em>by class</em> (this bullet point is styled with
+      a class selector)
+    </li>
+    <li>
+      to all elements created with a specific <em>tag</em> (this bullet point is
+      styled with a tag selector)
+    </li>
   </ul>
   <li>
     The selectors, above, are listed in order of specificity. When there are
