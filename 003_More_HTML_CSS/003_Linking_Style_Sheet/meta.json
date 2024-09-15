@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Linking a Style Sheet",
+  "slug": "link-style-sheet",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}

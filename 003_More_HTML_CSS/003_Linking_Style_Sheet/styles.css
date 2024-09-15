@@ -1,0 +1,22 @@
+body {
+  background-color: lavender;
+  padding: 10px;
+}
+
+h1 {
+  display: inline-block;
+  min-width: min-content;
+  padding: 10px;
+  color: #ff7f50;
+  background-color: #f0f8ff;
+}
+
+code {
+  background-color: #f0f8ff;
+  color: #darkslategray;
+  padding: 3px;
+}
+
+p {
+  color: royalblue;
+}
