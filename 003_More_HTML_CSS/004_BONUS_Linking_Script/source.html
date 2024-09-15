@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Linking JavaScript Code</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <p>
+      The title of this web page is: <span id="title">no title found</span>.
+    </p>
+    <script>
+      const metaTitle = document.querySelector("title").textContent;
+      const titleSpan = document.querySelector("#title");
+      titleSpan.textContent = metaTitle || "no title found";
+    </script>
+  </body>
+</html>

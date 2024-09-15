@@ -1,0 +1,12 @@
+body {
+  background-color: gainsboro;
+}
+
+p {
+  font-size: 1.25rem;
+}
+
+#title {
+  color: coral;
+  font-weight: bold;
+}
