@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Adding a Title",
+  "slug": "adding-a-title",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}
