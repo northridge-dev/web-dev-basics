@@ -25,7 +25,7 @@ a few attributes:
 It should look like this:
 
 ```html
-<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="styles.css" />
 ```
 
 It's a self-closing tag, so you don't need a closing `</link>` tag.
