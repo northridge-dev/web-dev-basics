@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Hiding Elements",
+  "slug": "hiding-elements",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}
