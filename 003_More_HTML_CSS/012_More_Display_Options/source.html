@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <span style="display: block; border: 1px solid black"
+      ><p>Here's a <code>span</code> acting like a <code>div</code>.</p></span
+    >
+    And here's
+    <div style="display: inline; background-color: yellow">
+      a <code>div</code> acting like a <code>span</code>
+    </div>
+    <hr />
+    <div class="controls">
+      <button onclick="changeDisplay('block')">Block</button>
+      <button onclick="changeDisplay('inline')">Inline</button>
+      <button onclick="changeDisplay('flex')">Flex</button>
+      <button onclick="changeDisplay('grid')">Grid</button>
+    </div>
+    <div id="displayContainer" class="container">
+      <div class="item red">1</div>
+      <div class="item blue">2</div>
+      <div class="item green">3</div>
+      <div class="item purple">4</div>
+      <div class="item tomato">5</div>
+      <div class="item peru">6</div>
+    </div>
+  </body>
+</html>

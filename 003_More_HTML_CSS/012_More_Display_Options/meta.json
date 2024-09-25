@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "More Display Options: Block, Inline, and Inline-Block",
+  "slug": "more-display-options",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}
