@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Mini Project: Style Gallery",
+  "slug": "mini-project",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}
