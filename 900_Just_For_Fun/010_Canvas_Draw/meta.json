@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "1, 2, 3 DRAW!",
+  "slug": "canvas-draw",
+  "language": "html",
+  "type": "playground",
+  "tests": false,
+  "exports": []
+}
